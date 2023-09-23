@@ -1,5 +1,5 @@
 import "./Footer.css";
-import footerBg from "../../../public/img/footer.png"
+import footerBG from "../imgFooter/footer.png" 
 
 const Footer = ()=>{
     return <footer className="footer" style={{backgroundImage:`url(${footerBg})`}}>
